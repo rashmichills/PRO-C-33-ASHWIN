@@ -64,6 +64,8 @@ function draw() {
  if(gameState=== "end"){
    text("GAMEOVER",200,200);
  }
+
+ 
   
    for (var i = 0; i < plinkos.length; i++) {
      
